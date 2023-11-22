@@ -1,0 +1,55 @@
+body {
+    background: url('bg.jpg');
+}
+
+.container {
+    width: 750px;
+    margin: 10px auto;
+	display:block;
+	background-color:white;
+}
+
+.topo > img{
+	width:90%;
+	margin: auto;
+	display: block;
+	text-align:center;
+	
+}
+
+.introducao{
+	text-align:left;
+	display:block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 44em;
+	
+}
+.imagem-topo-esquerda{
+	top: 0px;
+	left: 0px;
+	
+}
+.imagem-topo-direita {
+	top: 0px;
+	right:0px;
+	
+}
+.imagem-inferior-esquerda{
+	bottom:0px;
+	left: 0px;
+}
+
+.imagem-inferior-direita{
+	bottom:0px;
+	right:0px;
+	
+}
+
+.imagem-absolute {
+	
+	position: absolute;
+	
+}
+	
+
